@@ -7,15 +7,15 @@ Project Overview: The goal of this project is to conduct a comprehensive explora
 Dataset Description: The dataset comprises the following features related to fetal heart rate (FHR) and associated metrics:
 
 LB (Baseline Fetal Heart Rate): Represents the average fetal heart rate over a period.</br>
-AC (Accelerations): Indicates the presence of accelerations in the FHR, a sign of fetal well-being.
-FM (Fetal Movements): Tracks fetal movements detected by the monitor.
-UC (Uterine Contractions): Measures uterine contractions, which can impact FHR patterns.
-DL (Decelerations Late): Indicates decelerations that occur late with respect to uterine contractions, potentially signaling fetal distress.
-DS (Decelerations Short): Represents brief decelerations in the FHR.
-DP (Decelerations Prolonged): Measures long-lasting decelerations in the FHR.
-ASTV (Percentage of Time with Abnormal Short Term Variability): Represents the percentage of time with abnormal short-term variability in the FHR.
-MSTV (Mean Value of Short Term Variability): The average value of short-term variability in the FHR.
-ALTV (Percentage of Time with Abnormal Long Term Variability): Represents the percentage of time with abnormal long-term variability in the FHR.
+AC (Accelerations): Indicates the presence of accelerations in the FHR, a sign of fetal well-being.</br>
+FM (Fetal Movements): Tracks fetal movements detected by the monitor.</br>
+UC (Uterine Contractions): Measures uterine contractions, which can impact FHR patterns.</br>
+DL (Decelerations Late): Indicates decelerations that occur late with respect to uterine contractions, potentially signaling fetal distress.</br>
+DS (Decelerations Short): Represents brief decelerations in the FHR.</br>
+DP (Decelerations Prolonged): Measures long-lasting decelerations in the FHR.</br>
+ASTV (Percentage of Time with Abnormal Short Term Variability): Represents the percentage of time with abnormal short-term variability in the FHR.</br>
+MSTV (Mean Value of Short Term Variability): The average value of short-term variability in the FHR.</br>
+ALTV (Percentage of Time with Abnormal Long Term Variability): Represents the percentage of time with abnormal long-term variability in the FHR.</br>
 MLTV (Mean Value of Long Term Variability): The average value of long-term variability in the FHR.
 
 
@@ -40,7 +40,7 @@ Apply advanced visualization techniques like pair plots or violin plots for deep
 Pattern Recognition and Insights:
 
 Identify correlations between features and discuss their implications.
-Explore temporal trends and patterns if applicable.
+Explore temporal trends and patterns if applicable.</br>
 Conclusion:
 
 Summarize key insights and patterns uncovered.
