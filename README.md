@@ -36,27 +36,27 @@ MLTV (Mean Value of Long Term Variability): The average value of long-term varia
 
 ### Statistical Summary:
 
-Compute and present statistical summaries for each feature (e.g., mean, median, standard deviation).
-Highlight key observations and unusual patterns.</br>
+- Compute and present statistical summaries for each feature (e.g., mean, median, standard deviation).
+* Highlight key observations and unusual patterns.</br>
 
 ### Data Visualization:
 
-Create visualizations to understand the distributions of numerical features (e.g., histograms, box plots).
-Use bar charts or pie charts to visualize categorical data.
-Develop scatter plots and correlation heatmaps to explore relationships between variables.
-Apply advanced visualization techniques like pair plots or violin plots for deeper analysis.
+- Create visualizations to understand the distributions of numerical features (e.g., histograms, box plots).
+* Use bar charts or pie charts to visualize categorical data.
++ Develop scatter plots and correlation heatmaps to explore relationships between variables.
+- Apply advanced visualization techniques like pair plots or violin plots for deeper analysis.
 </br>
 
 ### Pattern Recognition and Insights:
 
-Identify correlations between features and discuss their implications.
-Explore temporal trends and patterns if applicable.
+- Identify correlations between features and discuss their implications.
+* Explore temporal trends and patterns if applicable.
 </br>
 
 ### Conclusion:
 
-Summarize key insights and patterns uncovered.
-Provide recommendations for further analysis or potential actions based on the findings.
+- Summarize key insights and patterns uncovered.
+* Provide recommendations for further analysis or potential actions based on the findings.
 
 ### Impact: 
 </br>
