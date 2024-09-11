@@ -6,7 +6,7 @@ Project Overview: The goal of this project is to conduct a comprehensive explora
 
 Dataset Description: The dataset comprises the following features related to fetal heart rate (FHR) and associated metrics:
 
-LB (Baseline Fetal Heart Rate): Represents the average fetal heart rate over a period.
+LB (Baseline Fetal Heart Rate): Represents the average fetal heart rate over a period.</br>
 AC (Accelerations): Indicates the presence of accelerations in the FHR, a sign of fetal well-being.
 FM (Fetal Movements): Tracks fetal movements detected by the monitor.
 UC (Uterine Contractions): Measures uterine contractions, which can impact FHR patterns.
